@@ -3,7 +3,9 @@
 - 3D Formulas
 - Linking Workbooks
 - Consolidation
+  
 **- Week 1_Practice Challenge:**
+
 **- Week 1_Advanced Practice Challenge:**
 
 ---
