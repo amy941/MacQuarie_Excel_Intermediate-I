@@ -1,4 +1,5 @@
-# WEEK 1: [Week 1_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/tree/main/20250218_Week%201)
+# WEEK 1: 
+Link: [Week 1_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/tree/main/20250218_Week%201)
 - Multiple Worksheets
 - 3D Formulas
 - Linking Workbooks
