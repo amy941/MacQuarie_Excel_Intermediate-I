@@ -14,7 +14,7 @@ Link: [Week 1_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/t
 ---
 
 # WEEK 2
-Link: [Week 2_folder]()
+Link: [Week 2_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/tree/main/20250225_Week%202)
 - Combining text
 - Text case
 - Extracting text
