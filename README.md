@@ -9,6 +9,8 @@ Link: [Week 1_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/t
 
 **- Week 1_Advanced Practice Challenge:** [adv challenge](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250218_Week%201/W1_AdvPracticeChallenge.xlsx)
 
+**- Week 1_Assessment:** [assessment_Week 1]()
+
 ---
 
 # WEEK 2
