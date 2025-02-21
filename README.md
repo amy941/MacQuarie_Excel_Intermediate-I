@@ -3,7 +3,8 @@
 - Multiple Worksheets
 - 3D Formulas
 - Linking Workbooks
-- Consolidation
+- Consolidating by Positions
+- Consolidating by Reference (category)
   
 💥 **- Week 1_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250218_Week%201/W1_PracticeChallenge_HeadOffice.xlsx)
 
@@ -15,11 +16,11 @@
 
 # WEEK 2
 🔗Link: [Week 2_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/tree/main/20250225_Week%202)
-- Combining text
-- Text case
-- Extracting text
-- Finding text
-- Date calculation
+- Combining text (CONCAT, &)
+- Text case (UPPER, LOWER, PROPER)
+- Extracting text (LEFT, MID, RIGHT)
+- Finding text (FIND)
+- Date calculation (DATE, NOW, TODAY, YEARFRAC)
   
 💥 **- Week 2_Practice Challenge:** [challenge]()
 
