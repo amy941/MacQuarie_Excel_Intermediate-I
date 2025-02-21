@@ -24,7 +24,7 @@
   
 💥 **- Week 2_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250225_Week%202/C2-W2-Practice-Challenge.xlsx)
 
-💥💥 **- Week 2_Assessment:** [assessment_Week 2]()
+💥💥 **- Week 2_Assessment:** [assessment_Week 2](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250225_Week%202/C2-W2-Assessment-Workbook.xlsx)
 
 ---
 
