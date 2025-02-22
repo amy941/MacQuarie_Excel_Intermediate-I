@@ -30,11 +30,9 @@
 
 # WEEK 3
 🔗Link: [Week 3_folder]()
-- Combining text
-- Text case
-- Extracting text
-- Finding text
-- Date calculation
+- Names Ranges
+- Create and manage ranges
+- Apply ranges to formulas
   
 💥 **- Week 3_Practice Challenge:** [challenge]()
 
