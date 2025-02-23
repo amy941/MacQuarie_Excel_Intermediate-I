@@ -42,11 +42,12 @@
 
 # WEEK 4
 🔗Link: [Week 4_folder]()
-- Combining text
-- Text case
-- Extracting text
-- Finding text
-- Date calculation
+- COUNT funct.
+- Counting w Criteria (COUNTIFS)
+- Adding w Criteria (SUMIFS)
+- Sparklines
+- Advanced Charting
+- Trendlines
   
 💥 **- Week 4_Practice Challenge:** [challenge]()
 
