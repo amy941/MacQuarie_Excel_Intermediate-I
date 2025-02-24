@@ -76,8 +76,8 @@
 # WEEK 4
 # 🔗Link: [Week 4_folder]()
 ### - COUNT funct.
-### - Counting w Criteria (COUNTIFS)
-### - Adding w Criteria (SUMIFS)
+### - Counting w Criteria (COUNTIFs)
+### - Adding w Criteria (SUMIFs)
 ### - Sparklines
 ### - Advanced Charting
 ### - Trendlines
