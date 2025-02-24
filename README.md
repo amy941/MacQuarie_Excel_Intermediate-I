@@ -77,7 +77,12 @@
 # 🔗Link: [Week 4_folder]()
 ### - COUNT funct.
 
-COUNT(), COUNTA(), COUNTBLANK()
+COUNT(): only counts the number of occurrences of cells that contain **NUMERIC** values. However, COUNT() still works on **dates**.
+
+COUNTA(): only counts the number of cells that contain **alpha/numeric/alphanumeric** values.
+
+COUNTBLANK(): only counts the number of occurrences of **blank** cells.
+
 ### - Counting w Criteria (COUNTIFs)
 ### - Adding w Criteria (SUMIFs)
 ### - Sparklines
