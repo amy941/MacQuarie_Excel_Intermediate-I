@@ -76,6 +76,8 @@
 # WEEK 4
 # 🔗Link: [Week 4_folder]()
 ### - COUNT funct.
+
+COUNT(), COUNTA(), COUNTBLANK()
 ### - Counting w Criteria (COUNTIFs)
 ### - Adding w Criteria (SUMIFs)
 ### - Sparklines
