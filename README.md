@@ -16,11 +16,34 @@
 
 # WEEK 2
 🔗Link: [Week 2_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/tree/main/20250225_Week%202)
-- Combining text (CONCAT, &)
-- Text case (UPPER, LOWER, PROPER)
-- Extracting text (LEFT, MID, RIGHT)
+- Combining text (CONCAT, &):
+  
+  *FirstName.LastName@pushpin.com* = CONCAT(C4,".",B4,"@pushpin.com") /or = C4&"."B4&"@pushpin.com"
+
+- Text case (UPPER, LOWER, PROPER):
+
+  =PROPER(CONCAT(C4," ",B4))
+
+  =LOWER(C4&"."&B4&"@pushpin.com")
+  
+- Extracting text (LEFT, MID, RIGHT):
+
+  =LEFT(**text**,[num_chars]) = LEFT(K4,2)
+  
+  =RIGHT(**text**,[num_chars]) = RIGHT(K4,4)
+
+  =MID(**text**,start_num,[num_chars]) = MID(K4,4,4)
+
+  
 - Finding text (FIND)
+
+  = FIND(**find_text**, within_text, [start_num]) = FIND(" ", K4)-4
+  
+  =CONCAT(RIGHT(Inventory!F4,3),MID(Inventory!F4,FIND(",",Inventory!F4)+2,4)) --- nesting function
+  
 - Date calculation (DATE, NOW, TODAY, YEARFRAC)
+
+  = YEARFRAC(start_date, end_date) = YEARFRAC(F4,TODAY())
   
 💥 **- Week 2_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250225_Week%202/C2-W2-Practice-Challenge.xlsx)
 
@@ -30,8 +53,18 @@
 
 # WEEK 3
 🔗Link: [Week 3_folder]()
-- Names Ranges
+- Names Ranges:
+  
+  =N4*Pension_Rate
+  
 - Create and manage ranges
+  
+  =AVERAGE(Annual_Salary)
+  
+  =MIN(Next_Review)
+  
+  =MAX(Date_of_Hire)
+  
 - Apply ranges to formulas
   
 💥 **- Week 3_Practice Challenge:** None🚫
