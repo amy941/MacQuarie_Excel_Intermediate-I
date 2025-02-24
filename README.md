@@ -34,9 +34,9 @@
 - Create and manage ranges
 - Apply ranges to formulas
   
-💥 **- Week 3_Practice Challenge:** [challenge]()
+💥 **- Week 3_Practice Challenge:** None
 
-💥💥 **- Week 3_Assessment:** [assessment_Week 3]()
+💥💥 **- Week 3_Assessment:** [assessment_Week 3](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250228_Week%203/C2-W3-Assessment-Workbook.xlsx)
 
 ---
 
