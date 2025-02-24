@@ -1,10 +1,10 @@
 # WEEK 1: 
-🔗Link: [Week 1_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/tree/main/20250218_Week%201)
-- Multiple Worksheets
-- 3D Formulas
-- Linking Workbooks
-- Consolidating by Positions
-- Consolidating by Reference (category)
+# 🔗Link: [Week 1_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/tree/main/20250218_Week%201)
+### - Multiple Worksheets
+### - 3D Formulas
+### - Linking Workbooks
+### - Consolidating by Positions
+### - Consolidating by Reference (category)
   
 💥 **- Week 1_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250218_Week%201/W1_PracticeChallenge_HeadOffice.xlsx)
 
@@ -15,18 +15,18 @@
 ---
 
 # WEEK 2
-🔗Link: [Week 2_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/tree/main/20250225_Week%202)
-- Combining text (CONCAT, &):
+# 🔗Link: [Week 2_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/tree/main/20250225_Week%202)
+### - Combining text (CONCAT, &):
   
   *FirstName.LastName@pushpin.com* = CONCAT(C4,".",B4,"@pushpin.com") /or = C4&"."B4&"@pushpin.com"
 
-- Text case (UPPER, LOWER, PROPER):
+### - Text case (UPPER, LOWER, PROPER):
 
   =PROPER(CONCAT(C4," ",B4))
 
   =LOWER(C4&"."&B4&"@pushpin.com")
   
-- Extracting text (LEFT, MID, RIGHT):
+### - Extracting text (LEFT, MID, RIGHT):
 
   =LEFT(**text**,[num_chars]) = LEFT(K4,2)
   
@@ -35,13 +35,13 @@
   =MID(**text**,start_num,[num_chars]) = MID(K4,4,4)
 
   
-- Finding text (FIND)
+### - Finding text (FIND)
 
   = FIND(**find_text**, within_text, [start_num]) = FIND(" ", K4)-4
   
   =CONCAT(RIGHT(Inventory!F4,3),MID(Inventory!F4,FIND(",",Inventory!F4)+2,4)) --- nesting function
   
-- Date calculation (DATE, NOW, TODAY, YEARFRAC)
+### - Date calculation (DATE, NOW, TODAY, YEARFRAC)
 
   = YEARFRAC(start_date, end_date) = YEARFRAC(F4,TODAY())
   
@@ -52,12 +52,12 @@
 ---
 
 # WEEK 3
-🔗Link: [Week 3_folder]()
-- Names Ranges:
+# 🔗Link: [Week 3_folder]()
+### - Names Ranges:
   
   =N4*Pension_Rate
   
-- Create and manage ranges
+### - Create and manage ranges
   
   =AVERAGE(Annual_Salary)
   
@@ -65,7 +65,7 @@
   
   =MAX(Date_of_Hire)
   
-- Apply ranges to formulas
+### - Apply ranges to formulas
   
 💥 **- Week 3_Practice Challenge:** None🚫
 
@@ -74,13 +74,13 @@
 ---
 
 # WEEK 4
-🔗Link: [Week 4_folder]()
-- COUNT funct.
-- Counting w Criteria (COUNTIFS)
-- Adding w Criteria (SUMIFS)
-- Sparklines
-- Advanced Charting
-- Trendlines
+# 🔗Link: [Week 4_folder]()
+### - COUNT funct.
+### - Counting w Criteria (COUNTIFS)
+### - Adding w Criteria (SUMIFS)
+### - Sparklines
+### - Advanced Charting
+### - Trendlines
   
 💥 **- Week 4_Practice Challenge:** [challenge]()
 
@@ -89,12 +89,13 @@
 ---
 
 # WEEK 5
-🔗Link: [Week 5_folder]()
-- Combining text
-- Text case
-- Extracting text
-- Finding text
-- Date calculation
+# 🔗Link: [Week 5_folder]()
+### - Combining text
+### - Text case
+### - Extracting text
+### - Finding text
+### - Finding text
+### - Date calculation
   
 💥 **- Week 5_Practice Challenge:** [challenge]()
 
@@ -103,12 +104,12 @@
 ---
 
 # WEEK 6
-🔗Link: [Week 6_folder]()
-- Combining text
-- Text case
-- Extracting text
-- Finding text
-- Date calculation
+# 🔗Link: [Week 6_folder]()
+### - Combining text
+### - Text case
+### - Extracting text
+### - Finding text
+### - Date calculation
   
 💥 **- Week 6_Practice Challenge:** [challenge]()
 
