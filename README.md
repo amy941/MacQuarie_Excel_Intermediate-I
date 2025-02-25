@@ -52,7 +52,7 @@
 ---
 
 # WEEK 3
-# 🔗Link: [Week 3_folder]()
+# 🔗Link: [Week 3_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/tree/main/20250228_Week%203)
 ### - Names Ranges:
   
   =N4*Pension_Rate
