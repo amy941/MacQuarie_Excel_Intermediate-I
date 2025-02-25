@@ -97,13 +97,14 @@
   
   =COUNTIFS(**Order_Quantity** ">40") ⚠️ place a condition in " "
  
-  
-
-
-
-
-
 ### - Adding w Criteria (SUMIFs)
+
+- SUMIFS(sum_range, criteria_range1, **criteria1**, [criteria_range2, criteria2], [criteria_range3, criteria3]...)
+  
+  = SUMIFS(Total, Account_Manager, A21)
+  
+  = SUMIFS(Total, Account_Manager, **$A21**, Order_Year, **C$20**)
+  
 ### - Sparklines
 ### - Advanced Charting
 ### - Trendlines
