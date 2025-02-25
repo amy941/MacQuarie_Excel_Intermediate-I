@@ -84,6 +84,25 @@
 - **COUNTBLANK():** only counts the number of occurrences of **blank** cells.
 
 ### - Counting w Criteria (COUNTIFs)
+
+- COUNTIFS(**criteria_range1,** criteria1,...) = COUNTIFS(**State,** A5)
+  
+- Others:
+
+  =COUNTIFS(State, A5)
+  
+  =COUNTIFS(Order_Year, 2013)
+  
+  =COUNTIFS(Order_Priority, "High") ⚠️
+  
+  =COUNTIFS(Order_Quantity, ">40") ⚠️
+ 
+  
+
+
+
+
+
 ### - Adding w Criteria (SUMIFs)
 ### - Sparklines
 ### - Advanced Charting
