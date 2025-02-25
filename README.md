@@ -74,7 +74,7 @@
 ---
 
 # WEEK 4
-# 🔗Link: [Week 4_folder]()
+# 🔗Link: [Week 4_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/tree/main/20250301_Week%204)
 ### - COUNT funct.
 
 - **COUNT():** only counts the number of occurrences of cells that contain **NUMERIC** values. However, COUNT() still works on **dates**.
