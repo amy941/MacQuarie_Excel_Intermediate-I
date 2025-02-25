@@ -89,13 +89,13 @@
   
 - Others:
 
-  =COUNTIFS(State, A5)
+  =COUNTIFS(**State,** A5)
   
-  =COUNTIFS(Order_Year, 2013)
+  =COUNTIFS(**Order_Year,** 2013)
   
-  =COUNTIFS(Order_Priority, "High") ⚠️
+  =COUNTIFS(**Order_Priority,** "High") ⚠️ place a string in " "
   
-  =COUNTIFS(Order_Quantity, ">40") ⚠️
+  =COUNTIFS(**Order_Quantity** ">40") ⚠️ place a condition in " "
  
   
 
