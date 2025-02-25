@@ -106,7 +106,20 @@
   = SUMIFS(Total, Account_Manager, **$A21**, Order_Year, **C$20**)
   
 ### - Sparklines
+
+- Both **Row data** and **Column Data** can be used to create a single Sparkline
+  
+-  Features can be highlighted on a sparkline: high point, low point, first point, last point, markers, negative points
+
+
 ### - Advanced Charting
+
+- Switching row & column
+- Selecting data,
+- Changing chart type
+- Adding a secondary axis
+
+  
 ### - Trendlines
   
 💥 **- Week 4_Practice Challenge:** [challenge]()
