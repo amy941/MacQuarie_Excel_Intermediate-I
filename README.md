@@ -122,7 +122,7 @@
   
 ### - Trendlines
   
-💥 **- Week 4_Practice Challenge:** [challenge]()
+💥 **- Week 4_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250301_Week%204/C2-W4-Practice-Challenge.xlsx)
 
 💥💥 **- Week 4_Assessment:** [assessment_Week 4]()
 
