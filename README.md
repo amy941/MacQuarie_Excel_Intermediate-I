@@ -130,12 +130,13 @@
 
 # WEEK 5
 # 🔗Link: [Week 5_folder]()
-### - Combining text
-### - Text case
-### - Extracting text
-### - Finding text
-### - Finding text
-### - Date calculation
+### - Create and format tables
+
+- 
+### - Sort and filter in tables
+### - Automation
+### - Subtotalling
+
   
 💥 **- Week 5_Practice Challenge:** [challenge]()
 
