@@ -131,8 +131,18 @@
 # WEEK 5
 # 🔗Link: [Week 5_folder]()
 ### - Create and format tables
+- Ctrl + T
+- ```Table Design``` tab on ribbon
+- In tables, named ranges will automatically extend when you add an extra row/column.
 
-- 
+### - Working w Tables
+- Selecting cells: **Ctrl + Shift + -->** doesn't work when you encounter **a blank cell**. Same for both table and range.
+  To select just your data in a row, use **black arrow** /or **Ctrl+A** /or move your mouse to the Top Left corner until it turns into a little black diagonal arrow (clicks 2x to include the header)
+- **Ctrl+A** doesn't work if you have broken that block of contiguous data
+- Once you convert data into a table, it effectively converts the rows in your table into database records. All the information in that record belongs together and Excel treats the cells accordingly.
+- ```Conditional Formatting```: higlight duplicate values --> ```Table Design``` tab--> Remove Duplicates
+- No need to worry about *freezing panes* when working w tables as the headers are still visible when we scroll down.
+  
 ### - Sort and filter in tables
 ### - Automation
 ### - Subtotalling
