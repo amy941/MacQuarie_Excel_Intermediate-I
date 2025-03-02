@@ -145,10 +145,21 @@
 - No need to worry about *freezing panes* when working w tables as the headers are still visible when we scroll down.
   
 ### - Sort and filter in tables
-### - Automation
-### - Subtotalling
-
+- **Total Rows**: a row is added at the bottom of table, providing a range of calculations (sum, avg, count, min, max, etc.). Also, able to update according to the filtered data in your table.
+- It's a good practice to always clear the Filter when working in a shared environment.
   
+### - Automation
+- To insert a row: Ctrl +
+- To enter today's date: Ctrl + ;
+- Table updated the named ranges when a new row is added to the table. But, doesn't work for Range.
+- Press Tab once in the last cell of the last table row.
+- **Structured References**: =[@[Annual_Salary]] +[@Pension]. Create auto in a table, work similarly to name ranges but they're not absolute.
+
+### - Subtotalling
+- ```Data``` tab --> Subtotal. Convert Table to Range first.
+- Before converting to Range, Sort first. Then, remove Banded Rows and turn off the Total Row. Finally, click ```Convert to Range```
+- **Subtotal** feature is not supported by Tables because we have summary data mixed with data entries.
+
 💥 **- Week 5_Practice Challenge:** [challenge]()
 
 💥💥 **- Week 5_Assessment:** [assessment_Week 5]()
