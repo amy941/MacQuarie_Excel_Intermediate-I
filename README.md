@@ -168,11 +168,12 @@
 
 # WEEK 6
 # 🔗Link: [Week 6_folder]()
-### - Combining text
-### - Text case
-### - Extracting text
-### - Finding text
-### - Date calculation
+### - Create & Modify a Pivot table
+### - Value Field Settings
+### - Sort & Filter a Pivot table
+### - Report Filter Pages
+### - Pivoting Charts
+### - Pivoting Sliders
   
 💥 **- Week 6_Practice Challenge:** [challenge]()
 
