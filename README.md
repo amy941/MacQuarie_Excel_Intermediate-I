@@ -185,9 +185,18 @@
 - Can Sort data in Pivot as normal.
 
 ### - Report Filter Pages
-- 
+- Drag Fields between areas below: Filters
+- ```PivotTable Analyze``` tab: Options --> Show Reports Filter Pages...
+
 ### - Pivoting Charts
+- ```PivotTable Analyze``` tab--> Pivot Chart
+- ```Format```, ```Design```, ```PivotTable Analyze``` tabs
+- Pivot charst always represents the pivot table. If pivot table changes, pivot chart will change and vice versa.
+
 ### - Pivoting Sliders
+- ```PivotTable Analyze``` tab: Insert Slicer
+- Slicer can connect slicers to multiple pivots. ```Options``` tab --> Report Connections
+
   
 💥 **- Week 6_Practice Challenge:** [challenge]()
 
