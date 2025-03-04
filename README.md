@@ -160,7 +160,7 @@
 - Before converting to Range, Sort first. Then, remove Banded Rows and turn off the Total Row. Finally, click ```Convert to Range```
 - **Subtotal** feature is not supported by Tables because we have summary data mixed with data entries.
 
-💥 **- Week 5_Practice Challenge:** [challenge]()
+💥 **- Week 5_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250302_Week%205/C2-W5-Practice-Challenge.xlsx)
 
 💥💥 **- Week 5_Assessment:** [assessment_Week 5]()
 
