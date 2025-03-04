@@ -169,6 +169,16 @@
 # WEEK 6
 # 🔗Link: [Week 6_folder]()
 ### - Create & Modify a Pivot table
+- Convert data into **a Table** before performing Pivot Table.
+- Click ```Refresh``` to update new values.
+- Drag Fields between areas below: Filters, Columns, Rows, Values
+
+- Right Click--> Summarize Values by --> Sum, Count, Avg, etc.
+- Right Click--> Show Values As--> No Calculation, %...
+- Right Click--> Number Format
+
+- ```Design``` tab: Subtotals, Grand Totals, Report Layout,...
+
 ### - Value Field Settings
 ### - Sort & Filter a Pivot table
 ### - Report Filter Pages
