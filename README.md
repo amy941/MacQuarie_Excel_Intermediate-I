@@ -129,7 +129,7 @@
 ---
 
 # WEEK 5
-# 🔗Link: [Week 5_folder]()
+# 🔗Link: [Week 5_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/tree/main/20250302_Week%205)
 ### - Create and format tables
 - Ctrl + T
 - ```Table Design``` tab on ribbon
