@@ -162,7 +162,7 @@
 
 💥 **- Week 5_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250302_Week%205/C2-W5-Practice-Challenge.xlsx)
 
-💥💥 **- Week 5_Assessment:** [assessment_Week 5]()
+💥💥 **- Week 5_Assessment:** [assessment_Week 5](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250302_Week%205/C2-W5-Assessment-Workbook.xlsx)
 
 ---
 
