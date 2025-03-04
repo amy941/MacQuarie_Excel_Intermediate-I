@@ -173,15 +173,19 @@
 - Click ```Refresh``` to update new values.
 - Drag Fields between areas below: Filters, Columns, Rows, Values
 
+### - Value Field Settings
 - Right Click--> Summarize Values by --> Sum, Count, Avg, etc.
 - Right Click--> Show Values As--> No Calculation, %...
 - Right Click--> Number Format
 
 - ```Design``` tab: Subtotals, Grand Totals, Report Layout,...
 
-### - Value Field Settings
 ### - Sort & Filter a Pivot table
+- ```PivotTable Analyze``` tab: Ungroup, Group Field, Expand Field, Collapse Field, ...
+- Can Sort data in Pivot as normal.
+
 ### - Report Filter Pages
+- 
 ### - Pivoting Charts
 ### - Pivoting Sliders
   
