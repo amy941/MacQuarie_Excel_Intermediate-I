@@ -204,9 +204,10 @@
 
 ---
 
-# Final Assessment & CERTIFICATE
+💥# [Final Assessment]()
 
-💥 **Final Assessment:** [Final Assessment]()
+---
+# CERTIFICATE
 
 ![Image](https://github.com/user-attachments/assets/96377273-fd75-48b2-886a-321b185e74b9)
 
