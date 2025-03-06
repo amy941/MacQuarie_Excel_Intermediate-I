@@ -204,7 +204,7 @@
 
 ---
 
-💥# [Final Assessment]()
+# Final Course Assessment: [Final Course Assessment]()
 
 ---
 # CERTIFICATE
