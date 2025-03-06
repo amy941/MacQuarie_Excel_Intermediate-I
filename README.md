@@ -167,7 +167,7 @@
 ---
 
 # WEEK 6
-# 🔗Link: [Week 6_folder]()
+# 🔗Link: [Week 6_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/tree/main/20250313_Week%206)
 ### - Create & Modify a Pivot table
 - Convert data into **a Table** before performing Pivot Table.
 - Click ```Refresh``` to update new values.
