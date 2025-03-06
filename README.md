@@ -198,7 +198,7 @@
 - Slicer can connect slicers to multiple pivots. ```Options``` tab --> Report Connections
 
   
-💥 **- Week 6_Practice Challenge:** [challenge]()
+💥 **- Week 6_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250313_Week%206/C2-W6-Practice-Challenge.xlsx)
 
 💥💥 **- Week 6_Assessment:** [assessment_Week 6]()
 
