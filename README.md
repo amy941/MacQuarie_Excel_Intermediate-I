@@ -1,10 +1,29 @@
 # WEEK 1: 
 # 🔗Link: [Week 1_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/tree/main/20250218_Week%201)
 ### - Multiple Worksheets
+- Copy Excel sheet: right click--> move or copy /or hold Ctrl key down, drag, release.
+- Cannot undo the sheet delete
+- **color coding sheets**: right click--> Tab color
+- **group sheet**: selecting multiple sheets simultaneously.
+  
 ### - 3D Formulas
+- Shift: =SUM(Sean:Carlos!C7)
+- Limit moving Sheets around too much when working with 3D formulas ⚠️
+- The structure of the workbooks must be identical ⚠️
+  
 ### - Linking Workbooks
+- ```View```--> Arrange All--> Tiled
+- Once those workbooks start moving or being renamed, the links can get damaged. Check links: Data--> Edit Links
+  
 ### - Consolidating by Positions
+- ```Data```--> Consolidate
+- This is, however, a **snapshot**, no formula, simply the value at the time that the consolidation was run.
+- If there's an update, need to rerun Consolidate.
+- Cannot undo a consolidation of links
+  
+
 ### - Consolidating by Reference (category)
+- ```Data```--> Consolidate. Choose labels (Top row/Left column)
   
 💥 **- Week 1_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250218_Week%201/W1_PracticeChallenge_HeadOffice.xlsx)
 
