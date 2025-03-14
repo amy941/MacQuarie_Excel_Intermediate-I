@@ -223,7 +223,7 @@
 
 ---
 
-# Final Course Assessment: [Final Course Assessment]()
+# Final Course Assessment: [Final Course Assessment](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250313_Week%206/C2-Final-Assessment.xlsx)
 
 ---
 # CERTIFICATE
